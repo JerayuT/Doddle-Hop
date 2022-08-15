@@ -7,4 +7,4 @@ Developed Doodle-Jump game from the ground up using a game engine subset of SDL2
 Built user-interactive GUI using Model-View-Controller system to create a gameplay driven game</br>
 Implemented 2D physics to track player’s movement and adjust screen and sprites for game progression</br>
 
-Issues: Score calculating algorithm
+Future Development: Fix and Improve Score calculating algorithm and code
